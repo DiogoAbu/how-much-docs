@@ -3,7 +3,7 @@ name: Deploy github-pages
 on:
   push:
     branches:
-      - master
+      - main
 
 env:
   node-version: "12"
