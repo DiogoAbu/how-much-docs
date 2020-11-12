@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/how-much-docs/static/css/main.31f1f64b.chunk.css",
-    "main.js": "/how-much-docs/static/js/main.931beaf1.chunk.js",
-    "main.js.map": "/how-much-docs/static/js/main.931beaf1.chunk.js.map",
+    "main.js": "/how-much-docs/static/js/main.42a31f26.chunk.js",
+    "main.js.map": "/how-much-docs/static/js/main.42a31f26.chunk.js.map",
     "runtime-main.js": "/how-much-docs/static/js/runtime-main.0c39d868.js",
     "runtime-main.js.map": "/how-much-docs/static/js/runtime-main.0c39d868.js.map",
     "static/js/2.fbb28afd.chunk.js": "/how-much-docs/static/js/2.fbb28afd.chunk.js",
@@ -11,13 +11,12 @@
     "static/js/3.cbf9d149.chunk.js.map": "/how-much-docs/static/js/3.cbf9d149.chunk.js.map",
     "index.html": "/how-much-docs/index.html",
     "static/css/main.31f1f64b.chunk.css.map": "/how-much-docs/static/css/main.31f1f64b.chunk.css.map",
-    "static/js/2.fbb28afd.chunk.js.LICENSE.txt": "/how-much-docs/static/js/2.fbb28afd.chunk.js.LICENSE.txt",
-    "static/media/logo.4b0ab593.png": "/how-much-docs/static/media/logo.4b0ab593.png"
+    "static/js/2.fbb28afd.chunk.js.LICENSE.txt": "/how-much-docs/static/js/2.fbb28afd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.0c39d868.js",
     "static/js/2.fbb28afd.chunk.js",
     "static/css/main.31f1f64b.chunk.css",
-    "static/js/main.931beaf1.chunk.js"
+    "static/js/main.42a31f26.chunk.js"
   ]
 }
