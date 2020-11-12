@@ -2,7 +2,7 @@
   "name": "how-much-docs",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://diogoabu.github.io/how-much-docs",
+  "homepage": "https://diogoabu.github.io/how-much-docs/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
