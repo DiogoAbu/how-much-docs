@@ -42,6 +42,7 @@ jobs:
         run: yarn install --prefer-offline --frozen-lockfile --silent
 
       - name: Import GPG key
+        id: gpg
         uses: crazy-max/ghaction-import-gpg@v3
         with:
           gpg-private-key: ${{ secrets.GPG_PRIVATE_KEY }}
@@ -59,3 +60,5 @@ jobs:
           github_token: ${{ secrets.PERSONAL_TOKEN }}
           publish_branch: gh-pages
           publish_dir: ./build
+          user_name: ${{ steps.gpg.outputs.name }}
+          user_email: ${{ steps.gpg.outputs.email }}
