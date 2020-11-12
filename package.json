@@ -9,7 +9,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "yarn build",
-    "deploy": "gh-pages-clean && gh-pages -d build"
+    "deploy": "gh-pages-clean && gh-pages -d build --dotfiles"
   },
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
