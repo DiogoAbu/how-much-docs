@@ -21,3 +21,8 @@
 .App-link {
   color: #61dafb;
 }
+
+.App-badge {
+  margin-top: 16px;
+  width: 50vmin;
+}
